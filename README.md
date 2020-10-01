@@ -1,4 +1,4 @@
-# ConcordanceProgram
+# ConcordanceProgram to count the number of occurrences of words in a passage
 Concordance program: a program to count the number of occurrences of words in a passage.
 The program will read white-space separated words from a file, convert all words to a single case,
 and remove any non-alphanumeric characters from both ends of the words, limited to one character on both ends.
